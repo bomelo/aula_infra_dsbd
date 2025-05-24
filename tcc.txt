@@ -1,2 +1,3 @@
 Estou usando o comando 'echo'para inserir uma frase a partir do terminal.
 Agora outra frase.
+Mais uma frase para ver como funciona.
