@@ -1,0 +1,1 @@
+Estou usando o comando 'echo'para inserir uma frase a partir do terminal.
