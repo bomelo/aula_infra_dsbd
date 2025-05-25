@@ -2,3 +2,5 @@ Estou usando o comando 'echo'para inserir uma frase a partir do terminal.
 Agora outra frase.
 Mais uma frase para ver como funciona.
 Fiz um commit mas não enviei para o repositório.
+Mais uma modificação e sem executar nenhum comando fiz o git restore e agora uma nova alteração e seguir com a tag.
+nova modificação.
